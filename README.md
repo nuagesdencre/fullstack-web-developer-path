@@ -1,19 +1,22 @@
 # VSQ'S Full Stack Web Developer Path
-#### Updated 16/11/2018
-## Code Institute Full Stack Web Development Online Course
-
-| Progress | Type | Item | Project(s) | Date |
+#### Updated 16/01/2019
+## Code Institute Full Stack Web Development Online Course 
+November 2017 - December 2018
+#### Awaiting final grade and diploma
+| Progress | Type | Item | Project(s) | Comments |
 |:------:|------|------|------------|:-------:|
 | 100% | Milestone 1 | USER CENTRIC | Completed & Submitted|    |
 | 100%  | Milestone 2 | INTERACTIVE FRONTEND | Completed & Submitted  |    |
 |  100% | Milestone 3 | Practical Python |  Completed & Submitted |    |
-|  80% | Milestone 4 | Data Centric | Preparing for Submission  |    |
-| 40%  | Milestone 5 | Full Stack Frameworks | Brainstorming and Wireframing  |    |
+|  100% | Milestone 4 | Data Centric | Completed & Submitted  |    |
+| 100%  | Milestone 5 | Full Stack Frameworks | Completed & Submitted  |    |
 
 
 ## 100 days of Code [Log](log.md)
 * Every week, write a medium post about that week's learnings.
 * Make a habit of coding daily. Try [#100DaysofCode Challenge](http://100daysofcode.com/)
+### Projected start date: 01/02/2019
+
 #### work in progress 
 
 ## The Fundamentals
